@@ -10,5 +10,5 @@ wheels/
 .venv
 
 key.json
-gsod2020.csv.gz
-isd-history.csv
+*.csv
+*.csv.gz
