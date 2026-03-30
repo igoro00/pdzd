@@ -9,7 +9,9 @@ dependencies = [
     "google-cloud-bigquery>=3.40.1",
     "google-cloud-bigquery-storage>=2.36.2",
     "ipykernel>=7.2.0",
+    "ipympl>=0.10.0",
     "matplotlib>=3.10.8",
     "pandas>=2.3.3",
     "pyarrow>=23.0.1",
+    "scikit-learn>=1.8.0",
 ]
